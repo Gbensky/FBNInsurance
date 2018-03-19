@@ -27,7 +27,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.interactions.touch.*;
 
 
-public class TestFbn {
+public class FbnTest {
     //private AndroidDriver;
     AppiumDriver driver;
     AppiumDriver appdriver;
